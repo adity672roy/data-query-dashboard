@@ -1,4 +1,4 @@
-Data Query Dashboard
+# Data Query Dashboard
 
 🚀 Overview
 
