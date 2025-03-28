@@ -47,7 +47,7 @@ npm run dev
 🚀 Deployment
 
 The project is deployed at:
-🔗 **Live Demo**: https://your-deployment-link
+🔗 **Live Demo**: (https://data-query-dashboard-nine.vercel.app/)
 
 📾 Project Structure
 
