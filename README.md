@@ -1,10 +1,10 @@
-Data Query Dashboard
+# Data Query Dashboard
 
-🚀 Overview
+### 🚀 Overview
 
 This project is a React-based Data Query Dashboard Prototype designed for the Frontend Engineering Intern Challenge. It allows users to input queries, simulates AI query processing (mock data), and displays results visually using charts.
 
-🎯 Features
+### 🎯 Features
 
 - **Natural Language Query Input**: Users can enter business-related questions.
 - **AI Query Processing Simulation**: Mimics AI-powered responses with mock data.
@@ -14,7 +14,7 @@ This project is a React-based Data Query Dashboard Prototype designed for the Fr
 - **Modern UI with Tailwind CSS**: Ensures a clean, responsive design.
 - **Loading Indicator**: Displays processing state when generating results.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Frontend**: React.js
 - **State Management**: Redux Toolkit
@@ -22,7 +22,7 @@ This project is a React-based Data Query Dashboard Prototype designed for the Fr
 - **Data Visualization**: Recharts
 - **Deployment**: Vercel  
 
-🛂 Installation
+### 🛂 Installation
 
 Clone the repository:
 ```bash
@@ -44,12 +44,12 @@ Start the development server:
 npm run dev
 ```
 
-🚀 Deployment
+### 🚀 Deployment
 
 The project is deployed at:
-🔗 **Live Demo**: https://your-deployment-link
+🔗 **Live Demo**: (https://data-query-dashboard-nine.vercel.app/)
 
-📾 Project Structure
+### 📾 Project Structure
 
 ```
 📂 data-query-dashboard
@@ -65,13 +65,13 @@ The project is deployed at:
 ├── 📄 README.md         # Documentation
 ```
 
-📌 Usage
+### 📌 Usage
 
 1. **Enter a Query**: Type a business-related question.
 2. **Submit Query**: Click the button to process.
 3. **View Results**: See mock data visualized as a chart.
 
-🏆 Focused On:
+### 🏆 Focused On:
 
 - React Component Structure
 - State Management Efficiency 
